@@ -1,5 +1,5 @@
-## JSON++
-JSON++ is a modern c++ library to parse and emit JSON. I know plenty exist already but this one will be mine.
+## json-cpp
+json-cpp is a modern c++ library to parse and emit JSON. I know plenty exist already but this one will be mine.
 
 It is intended for use in the [Nebula](https://github.com/KevinMiller77/Nebula) game engine
 
